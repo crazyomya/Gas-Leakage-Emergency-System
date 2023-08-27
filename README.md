@@ -4,7 +4,7 @@ In our increasingly automated world, safety is a paramount concern. The Gas Leak
 
 ## Key Features
 
-- **Gas Detection**: The system is equipped with gas sensors that can detect the presence of harmful gases in the environment.
+- **Gas Detection**: The system is equipped with an MQ3 gas sensor that can detect the presence of harmful gases in the environment.
 
 - **Immediate Alerting**: When a gas leakage emergency occurs, the system takes swift action. It activates alarms, including a buzzer and emergency lights, to alert individuals in the vicinity about the emergency.
 
@@ -12,8 +12,6 @@ In our increasingly automated world, safety is a paramount concern. The Gas Leak
 
 - **Gas Ventilation**: To mitigate the situation, an exhaust fan is activated to expel harmful gases from the room, reducing their concentration.
 
-- **IoT Integration**: Leveraging the Internet of Things (IoT), the system sends notifications to relevant authorities, keeping them informed about the emergency in real-time.
+- **IoT Integration**: Leveraging the Internet of Things (IoT), the system uses the Pushbullet API to send notifications to relevant authorities, keeping them informed about the emergency in real-time.
 
-This system serves as a crucial safety measure by promptly detecting gas leaks, alerting occupants, and taking steps to ensure their safety. Additionally, it provides remote alerts to authorities, enhancing overall safety and response effectiveness.
-
----
+This system serves as a crucial safety measure by promptly detecting gas leaks, alerting occupants, and taking steps to ensure their safety.
