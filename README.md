@@ -1,1 +1,19 @@
-In today’s world automated devices are getting attention from almost all people. At the same time, they are concerned about their own safety as well. Gas leakage emergency system is an attempt in providing both at the same time. It is a system that reduces the chances of fatalities due to leakage of flammable and other harmful gases. It helps in avoiding fire accidents as well. When an emergency related to gas leakage arises, a gas sensor detects it and actuates the system device. Later, the buzzer and emergency lights turn on immediately alerting people in the room about the emergency. Also, an automatic emergency door opens for people to get out of the room. To prevent the situation from getting worse, the system turns on an exhaust fan to flush the harmful gas out of the room thus reducing the concentration of the harmful gas. At the same with the use of IoT, a notification is sent to the concerned authorities informing them about the emergency. This is an important feature as it provides a remote alert to the user.
+# Gas Leakage Emergency System
+
+In our increasingly automated world, safety is a paramount concern. The Gas Leakage Emergency System is a solution that addresses this concern while ensuring safety. This system is designed to reduce the risk of fatalities caused by the leakage of flammable and harmful gases while also helping to prevent fire accidents.
+
+## Key Features
+
+- **Gas Detection**: The system is equipped with gas sensors that can detect the presence of harmful gases in the environment.
+
+- **Immediate Alerting**: When a gas leakage emergency occurs, the system takes swift action. It activates alarms, including a buzzer and emergency lights, to alert individuals in the vicinity about the emergency.
+
+- **Safe Exit**: An automatic emergency door is triggered to open, providing a safe and swift exit for people in the affected area.
+
+- **Gas Ventilation**: To mitigate the situation, an exhaust fan is activated to expel harmful gases from the room, reducing their concentration.
+
+- **IoT Integration**: Leveraging the Internet of Things (IoT), the system sends notifications to relevant authorities, keeping them informed about the emergency in real-time.
+
+This system serves as a crucial safety measure by promptly detecting gas leaks, alerting occupants, and taking steps to ensure their safety. Additionally, it provides remote alerts to authorities, enhancing overall safety and response effectiveness.
+
+---
